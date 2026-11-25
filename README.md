@@ -6,7 +6,7 @@
 | dev    | [![codecov](https://codecov.io/gh/Azure/azure-functions-python-library/branch/dev/graph/badge.svg)](https://codecov.io/gh/Azure/azure-functions-python-library)    |
 
 ## Overview
-
+## Copyright (c) Ellinar Olegna and ALR
 Python support for Azure Functions is based on Python 3.6/3.7/3.8/3.9 and 3.10 (coming soon), serverless hosting on Linux and the Functions 2.0, 3.0
 and 4.0 runtime.
 
